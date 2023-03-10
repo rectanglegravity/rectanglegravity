@@ -9,8 +9,8 @@ function App() {
 
   return (
     <div>
-      <Typography variant="overline" gutterBottom>
-        rectangle gravity
+      <Typography color="secondary"  variant="overline" gutterBottom>
+        rectangle gravity :)
       </Typography>
     </div>
   )
